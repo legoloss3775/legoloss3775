@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/tkqIs1ZR58YAAAAC/kirby-i-forgot.gif" width="300"/>
+
+<div id="stats" align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=legoloss3775&theme=dark"/></a>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/timur_sulemanov">
@@ -8,9 +9,6 @@
   <a href="https://www.deviantart.com/alaethir">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" alt="Devianart Badge" width="50" height="25"/>
   </a>
-</div>
-<div id="stats" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=legoloss3775&theme=dark"/></a>
 </div>
 <!--
 **legoloss3775/legoloss3775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
