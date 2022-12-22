@@ -7,7 +7,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK Badge" width="25" height="25"/>
   </a>
   <a href="https://www.deviantart.com/alaethir">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" alt="Devianart Badge" width="75" height="25"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" alt="Devianart Badge" width="60" height="25"/>
   </a>
 </div>
 <!--
