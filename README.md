@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="stats" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=legoloss3775"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=legoloss3775&theme=dark"/></a>
 </div>
 <!--
 **legoloss3775/legoloss3775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
