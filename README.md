@@ -1,4 +1,3 @@
-<h1 align="center">Alaethir/dev</h1>
 <div id="badges" align="center">
   <a href="https://vk.com/timur_sulemanov">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK Badge" width="25" height="25"/>
@@ -7,6 +6,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" alt="Devianart Badge" width="60" height="25"/>
   </a>
 </div>
+<h1 align="center">Alaethir/dev</h1>
 <div id="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=legoloss3775&theme=dark"/></a>
 </div>
