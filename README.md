@@ -1,7 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/tkqIs1ZR58YAAAAC/kirby-i-forgot.gif" width="100"/>
+  <img src="https://media.tenor.com/tkqIs1ZR58YAAAAC/kirby-i-forgot.gif" width="300"/>
 </div>
-
+<div id="badges">
+  <a href="https://vk.com/timur_sulemanov">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK Badge"/>
+  </a>
+  <a href="https://www.deviantart.com/alaethir">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" alt="Devianart Badge"/>
+  </a>
+</div>
 <!--
 **legoloss3775/legoloss3775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
