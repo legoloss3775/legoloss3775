@@ -1,4 +1,4 @@
-<h1 align="center">Alaethir</h1>
+<h1 align="center">Alaethir/GameDev</h1>
 <div id="badges" align="center">
   <a href="https://vk.com/timur_sulemanov">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK Badge" width="25" height="25"/>
