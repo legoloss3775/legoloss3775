@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" alt="Devianart Badge" width="50" height="25"/>
   </a>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=legoloss3775&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **legoloss3775/legoloss3775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
