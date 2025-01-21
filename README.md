@@ -1,6 +1,7 @@
 
 <h1 align="center">Alaethir/dev</h1>
 <div id="stats" align="center">
+  <img src="https://media.tenor.com/EEKBBLVOsbkAAAAj/kirby-pepe-jam.gif" />
 </div>
   <div id="other" align="center">
     <h2 aligh="center">Other links</h2>
